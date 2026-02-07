@@ -65,7 +65,7 @@ scikit-learn
 - Conducted market research & prepared analytical reports  
 - Supported strategy and R&D teams with data-driven insights  
 - Tested AI outputs for accuracy and efficiency
-- led the team of 10 members
+- Led a team of 10 members
 - 🏆 Received a token of appreciation for contributions  
 
 ---
