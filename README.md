@@ -26,18 +26,8 @@
 
 ---
 
-## 🤝 Connect with Me
-
-<p align="left">
-  <a href="http://www.linkedin.com/in/contactganjulasrinija" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:ganjulasrinija@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
-  </a>
-</p>
-
----
+🤝 Connect with Me
+<p align="left"> <a href="https://www.linkedin.com/in/contactganjulasrinija36" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/> </a> <a href="mailto:ganjulasrinija@gmail.com"> <img src="https://img.shields.io/badge/Email-ganjulasrinija@gmail.com-red?style=for-the-badge&logo=gmail"/> </a> </p>
 
 ## 🛠️ Languages & Tools
 
@@ -49,8 +39,21 @@
   <img src="https://skillicons.dev/icons?i=vscode" />
 </p>
 
+---
+
 **Data & ML Stack:**  
-Pandas • NumPy • Scikit-learn • TensorFlow • OpenCV • Seaborn
+🛠️ Libraries
+<p align="left"> <img src="https://skillicons.dev/icons?i=python" /> </p>
+
+Python Libraries:
+
+NumPy
+
+Pandas
+
+Seaborn
+
+scikit-learn
 
 ---
 
@@ -61,7 +64,8 @@ Pandas • NumPy • Scikit-learn • TensorFlow • OpenCV • Seaborn
 
 - Conducted market research & prepared analytical reports  
 - Supported strategy and R&D teams with data-driven insights  
-- Tested AI outputs for accuracy and efficiency  
+- Tested AI outputs for accuracy and efficiency
+- led the team of 10 members
 - 🏆 Received a token of appreciation for contributions  
 
 ---
