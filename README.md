@@ -121,7 +121,7 @@ To obtain a challenging role in the IT industry where I can apply my programming
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="60%" />
+  <img src="https://dribbble.com/shots/3007469-Down-and-QWERTY" width="60%" />
 </p>
 
 ⭐ *Thank you for visiting my profile — feel free to explore my repositories and connect with me!*
